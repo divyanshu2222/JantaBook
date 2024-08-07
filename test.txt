@@ -1,0 +1,7 @@
+color: #e4e00f;
+border: 3px solid #dff385;
+box-shadow: 0 0 10px 5px #c9dd13;
+background: #a7b1252b;
+
+
+color: #edc630; //why color
